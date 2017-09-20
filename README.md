@@ -1,4 +1,5 @@
 # InDesign Scripting In Python
+![](https://i.imgur.com/mnmAIDH.png "Logo Title Text 1")
 
 Scripting in InDesign is used to automate a wide variety of repetative task or as complex as an entire new feature. If you've never done scripting in InDesign, you should first read the scripting [documentations](https://console.adobe.io/downloads/id)
 
