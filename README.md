@@ -3,7 +3,7 @@
 Scripting in InDesign is used to automate a wide variety of repetative task or as complex as an entire new feature. If you've never done scripting in InDesign, you should first read the scripting [documentations](https://console.adobe.io/downloads/id)
 
 # But why Python?
-You may have heard that Python is gaining in popularity, but did you know it’s now the most popular introductory programming language in U.S. universities? Python is also cross platform just like JavaScript is and lately becoming one of the fastest growing programming language according to StackOverflow as of September 2017, see the full blog here https://stackoverflow.blog/2017/09/06/incredible-growth-python
+You may have heard that Python is gaining in popularity, but did you know it’s now the most popular introductory programming language in U.S. universities? Python is also cross platform just like JavaScript is and lately becoming one of the fastest growing programming language according to [StackOverflow](https://stackoverflow.blog/2017/09/06/incredible-growth-python) as of September 2017
 
 Python is easy to use, powerful, and versatile, making it a great choice for beginners and experts alike. Python’s readability makes it a great first programming language — it allows you to think like a programmer and not waste time understanding the mysterious syntax that other programming languages can require.
 
