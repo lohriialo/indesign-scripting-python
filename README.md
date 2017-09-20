@@ -1,3 +1,5 @@
+# InDesign Scripting In Python
+
 Scripting in InDesign is used to automate a wide variety of repetative task or as complex as an entire new feature. If you've never done scripting in InDesign, you should first read the scripting documentations, detail at https://console.adobe.io/downloads/id
 
 InDesign can be scripted through COM(Component Object Model). Its DOM(Document Object Model) is the same when accessing it through either its own JavaScript engine or Python or any other scripting language. InDesign exposes it's scripting DOM as a Type Library file at the time of InDesign application startup. This is because all the scripting methods available in the DOM is provided by the individual InDesign Scriptable Plug-Ins. Those Plug-Ins could be the stock InDesign Plug-Ins that ships with InDesign or any other third party Plug-Ins which as installed in the Plug-Ins directory. The type library file is written out during application launch at C:\Users\username\AppData\Local\Adobe\InDesign\<Version>\en_US\Caches\Scripting Support\<Version>\Resources for Visual Basic.tlb
