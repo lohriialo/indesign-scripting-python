@@ -35,3 +35,6 @@ myTextFrame.Contents = "Hello World!"
 * [InDesign Scripting Developer Forum](https://forums.adobe.com/community/indesign/indesign_scripting)
 * [InDesign Scripting API Reference](http://www.indesignjs.de/extendscriptAPI/indesign12)
 * [InDesign Scripting Tutorials](https://www.youtube.com/user/BSKTCreation/videos)
+
+# Does Python Scripting also works in Photoshop and Illustrator?
+The short answer is yes it should, because Photoshop and Illustrator also exposes it's scripting api via COM just like InDesign
