@@ -1,6 +1,6 @@
 # InDesign Scripting In Python
 
-Scripting in InDesign is used to automate a wide variety of repetative task or as complex as an entire new feature. If you've never done scripting in InDesign, you should first read the scripting documentations, detail at https://console.adobe.io/downloads/id
+Scripting in InDesign is used to automate a wide variety of repetative task or as complex as an entire new feature. If you've never done scripting in InDesign, you should first read the scripting [documentations](https://console.adobe.io/downloads/id)
 
 # But why Python?
 You may have heard that Python is gaining in popularity, but did you know it’s now the most popular introductory programming language in U.S. universities? Python is also cross platform just like JavaScript is and lately becoming one of the fastest growing programming language according to StackOverflow as of September 2017, see the full blog here https://stackoverflow.blog/2017/09/06/incredible-growth-python
