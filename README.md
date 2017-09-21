@@ -39,6 +39,6 @@ See more sample scripts in the `sample-scripts` directory
 * [InDesign Scripting Tutorials](https://www.youtube.com/user/BSKTCreation/videos)
 
 # Does Python Scripting also works in Photoshop and Illustrator?
-The short answer is yes ideally it should, because Photoshop and Illustrator also exposes it's scripting api via COM just like InDesign. Ive not had a chance to try it yet on Photoshop or Illustrator, see it for yourself!
+The short answer is yes ideally it should, because Photoshop and Illustrator also exposes it's scripting api via COM just like InDesign. I've not had a chance to try it out yet on Photoshop or Illustrator.
 
-`**Note: InDesign does not officially support Python Scripting, if you ran into issues or bugs you're on your own. Feel free to dicuss bugs/issues using the "Issues" tracker in this repository`
+`**Note: InDesign does not officially support Python Scripting, if you ran into issues or bugs you're on your own. But feel free to dicuss bugs/issues using the "Issues" tracker in this repository`
