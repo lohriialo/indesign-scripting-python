@@ -1,7 +1,7 @@
 # InDesign Scripting In Python
 ![](https://i.imgur.com/mnmAIDH.png "Logo Title Text 1")
 
-Scripting in InDesign is used to automate a wide variety of repetative task or as complex as an entire new feature. If you've never done scripting in InDesign, you should first read the scripting [documentations](https://console.adobe.io/downloads/id)
+Scripting in InDesign is used to automate a wide variety of repetative task or as complex as an entire new feature. It is one of the most powerful features in InDesign. It can save lots of time: almost anything you can do with the user interface, you can do with scripts, and there are even a few things you can do in scripting that you cannot do from within the user interface. Scripting is also a good way to do accurate placing and to repeat the same action dozens, hundreds, or thousands of times. If you've never done scripting in InDesign, you should first read the scripting [documentations](https://console.adobe.io/downloads/id)
 
 # But why Python?
 InDesign scripting officially supports JavaScript, AppleScript & VBScript and the Scripting SDK ships with tutorials and guides for each of those supported Scripting language. However, Scripting in Python is also fairly easy if not easier if you're already comfortable with Python. You may have already heard that Python is gaining in popularity, but did you know it’s now the most popular introductory programming language in U.S. universities? Python is also cross platform just like JavaScript is and lately becoming one of the fastest growing programming language according to [StackOverflow](https://stackoverflow.blog/2017/09/06/incredible-growth-python) as of September 2017
