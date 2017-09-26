@@ -29,7 +29,7 @@ myTextFrame = myPage.TextFrames.Add()
 myTextFrame.GeometricBounds = ["6p0", "6p0", "18p0", "18p0"]
 myTextFrame.Contents = "Hello World!"
 ```
-See more sample scripts in the `sample-scripts` directory
+See more sample scripts in the [`sample-scripts`](https://github.com/lohriialo/indesign-scripting-python/tree/master/sample-scripts) directory
 
 # InDesign Scripting Resources
 * [InDesign Scripting SDK](https://console.adobe.io/downloads/id)
