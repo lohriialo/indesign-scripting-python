@@ -29,7 +29,6 @@ myTextFrame = myPage.TextFrames.Add()
 myTextFrame.GeometricBounds = ["6p0", "6p0", "18p0", "18p0"]
 myTextFrame.Contents = "Hello World!"
 ```
-See more sample scripts in the [`sample-scripts`](https://github.com/lohriialo/indesign-scripting-python/tree/master/sample-scripts) directory
 
 # More Example
 Here's another example of how easy it is to setup a web application with Flask in Python. Where, IDS running on the server takes the user inputed data and generate a business card. See [`flask-demo`](https://github.com/lohriialo/indesign-scripting-python/tree/master/flask-demo) for the example
