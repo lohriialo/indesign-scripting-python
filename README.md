@@ -31,7 +31,7 @@ myTextFrame.Contents = "Hello World!"
 ```
 
 # More Example
-Here's another example of how easy it is to setup a web application with Flask in Python. Where, IDS running on the server takes the user inputed data and generate a business card. See [`flask-demo`](https://github.com/lohriialo/indesign-scripting-python/tree/master/flask-demo) for the example
+Here's another example of how easy it is to setup a web application with Flask in Python. Where, InDesign Server running on a server takes the user inputed data and generate a business cards on the fly. See [`flask-demo`](https://github.com/lohriialo/indesign-scripting-python/tree/master/flask-demo) for the example
 
 # InDesign Scripting Resources
 * [InDesign Scripting SDK](https://console.adobe.io/downloads/id)
