@@ -44,3 +44,6 @@ Here's another example of how easy it is to setup a web application with Flask i
 The short answer is yes ideally it should, because Photoshop and Illustrator also exposes it's scripting api via COM just like InDesign. I've not had a chance to try it out yet on Photoshop or Illustrator.
 
 `**Note: InDesign does not officially support Python Scripting, if you ran into issues or bugs you're on your own. But feel free to dicuss bugs/issues using the "Issues" tracker in this repository`
+
+# **Update**
+Yes, Photoshop scripting is very much possible, go here [Photoshop Scripting in Python](https://github.com/lohriialo/photoshop-scripting-python)
