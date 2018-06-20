@@ -31,7 +31,7 @@ myTextFrame.Contents = "Hello World!"
 ```
 
 # More Example
-Here's another example of how easy it is to setup a web application with Flask in Python. Where, InDesign Server running on a server takes the user inputed data and generate a business cards on the fly. See [`flask-demo`](https://github.com/lohriialo/indesign-scripting-python/tree/master/flask-demo) for the example
+[Here's](https://github.com/lohriialo/indesign-scripting-python/tree/master/flask-demo) another example of how easy it is to setup a web application with Flask in Python. Where, InDesign Server running on a server takes the user inputed data and generate a business cards on the fly. See [`flask-demo`](https://github.com/lohriialo/indesign-scripting-python/tree/master/flask-demo) for the example
 
 # InDesign Scripting Resources
 * [InDesign Scripting SDK](https://console.adobe.io/downloads/id)
@@ -40,10 +40,6 @@ Here's another example of how easy it is to setup a web application with Flask i
 * [InDesign Scripting API Reference](http://www.indesignjs.de/extendscriptAPI/indesign12)
 * [InDesign Scripting Tutorials](https://www.youtube.com/user/BSKTCreation/videos)
 
-# Does Python Scripting also works in Photoshop and Illustrator?
-The short answer is yes ideally it should, because Photoshop and Illustrator also exposes it's scripting api via COM just like InDesign. I've not had a chance to try it out yet on Photoshop or Illustrator.
-
-`**Note: InDesign does not officially support Python Scripting, if you ran into issues or bugs you're on your own. But feel free to dicuss bugs/issues using the "Issues" tracker in this repository`
-
-# **Update**
-Yes, Photoshop scripting is very much possible, go here [Photoshop Scripting in Python](https://github.com/lohriialo/photoshop-scripting-python)
+# Also see 
+* [Photoshop Scripting in Python](https://github.com/lohriialo/photoshop-scripting-python)
+* [Illustrator Scripting in Python](https://github.com/lohriialo/illustrator-scripting-python)
