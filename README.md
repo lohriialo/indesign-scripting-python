@@ -33,6 +33,9 @@ myTextFrame.Contents = "Hello World!"
 # More Example
 [Here's](https://github.com/lohriialo/indesign-scripting-python/tree/master/flask-demo) another example of how easy it is to setup a web application with Flask in Python. Where, InDesign Server running on a server takes the user inputed data and generate a business cards on the fly. See [`flask-demo`](https://github.com/lohriialo/indesign-scripting-python/tree/master/flask-demo) for the example
 
+# Scripting on Mac?
+Yes, scripting on Mac is also possible, see [photoshop_mac_scripting](https://github.com/lohriialo/photoshop-scripting-python/tree/master/mac_scripting) for more details as a reference to get started
+
 # InDesign Scripting Resources
 * [InDesign Scripting SDK](https://console.adobe.io/downloads/id)
 * [InDesign Scripting Documentation](http://www.adobe.com/devnet/indesign/documentation.html)
