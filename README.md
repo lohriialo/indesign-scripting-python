@@ -38,6 +38,11 @@ There's not a straight forward way, you need to read the documentation to unders
 # Scripting on Mac?
 Yes, scripting on Mac is also possible, see [photoshop_mac_scripting](https://github.com/lohriialo/photoshop-scripting-python/tree/master/mac_scripting) for more details as a reference to get started
 
+# Note
+Python is not directly supported as a first party scripting language, so you cannot drop a python file in the scripts folder and have InDesign execute it. At the moment, the only way to script is via COM as demonstrated in the examples
+
+There's a feature request though to add support for Python in InDesign, you might want to go give your vote [here](https://indesign.uservoice.com/forums/601021-adobe-indesign-feature-requests/suggestions/32193772-add-python-to-the-list-of-supported-scripting-lang)
+
 # InDesign Scripting Resources
 * [InDesign Scripting SDK](https://console.adobe.io/downloads/id)
 * [InDesign Scripting Documentation](http://www.adobe.com/devnet/indesign/documentation.html)
