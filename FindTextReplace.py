@@ -10,6 +10,6 @@ app.ActiveDocument.ChangeText()
 # app.Selection[0].ChangeText()
 
 idNothing = 1851876449  #from enum idNothingEnum, see doc_reference
-#rest Preferences
+#reset Preferences
 app.FindTextPreferences.FindWhat = idNothing
 app.ChangeTextPreferences.ChangeTo = idNothing
