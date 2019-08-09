@@ -1,7 +1,7 @@
 .git
 .idea
 env
-pscc2018.pyc
+venv
 my-test.py
 .DS_Store
 Readme.txt

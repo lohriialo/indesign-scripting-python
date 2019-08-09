@@ -53,3 +53,28 @@ There's a feature request though to add support for Python in InDesign, you migh
 # Also see 
 * [Photoshop Scripting in Python](https://github.com/lohriialo/photoshop-scripting-python)
 * [Illustrator Scripting in Python](https://github.com/lohriialo/illustrator-scripting-python)
+
+# Contribution
+If you've written a useful InDesign Python script and wants to share with the world, please create a new issue with the file as an attachment to the issue.
+
+When you submit a script, please try to include the following information at the start of your script
+```python
+# script_file_name.py
+
+# Created: 1st January 2019
+__author__ = 'Your Name or Original Author Name'
+__version__ = '1.0'
+
+"""
+A short description of what the script does
+"""
+
+"""
+Instructions on how to use the script, if any
+"""
+
+```
+* Go to  [indesign-scripting-python/issues/new](https://github.com/lohriialo/indesign-scripting-python/issues/new)
+* Add title  as `Useful Script`
+* Drag & drop your .py script file into the description area
+* Click `Submit new issue`
