@@ -30,7 +30,7 @@ myTextFrame.GeometricBounds = ["6p0", "6p0", "18p0", "18p0"]
 myTextFrame.Contents = "Hello World!"
 ```
 # How to inspect a scripting object properties?
-There's not a straight forward way, you need to read the documentation to understand what properties/attributes are available for a scripting object, or possibly a COM browser. For example, I've extracted the Python scripting object reference for InDesign CC 2018 at [doc_reference](https://github.com/lohriialo/indesign-scripting-python/tree/master/doc_reference)
+There's not a straight forward way, you need to read the documentation to understand what properties/attributes are available for a scripting object, or possibly a COM browser. For example, I've extracted the Python scripting object reference for InDesign CC 2018 at [doc_reference](https://github.com/lohriialo/indesign-scripting-python/tree/master/api_reference)
 
 # More Example
 [Here's](https://github.com/lohriialo/indesign-scripting-python/tree/master/flask-demo) another example of how easy it is to setup a web application with Flask in Python. Where, InDesign Server running on a server takes the user inputed data and generate a business cards on the fly. See [`flask-demo`](https://github.com/lohriialo/indesign-scripting-python/tree/master/flask-demo) for the example
