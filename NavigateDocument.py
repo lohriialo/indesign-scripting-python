@@ -20,7 +20,7 @@ myFile = r'C:\ServerTestFiles\TestDocument.indd'
 myDocument = app.Open(myFile)
 
 #Navigate a document page wise
-for pageIndex in range(1,myDocument.Pages.Count+1):     #Note: All the Indexes seems to begin with 1 instead of 0
+for pageIndex in range(myDocument.Pages.Count):     
     #Page Reference - It gives a handle to manipulate page
     myPage = myDocument.Pages.Item(pageIndex)   # myDocument.Pages[pageIndex] also works - list style indexing can be substitued wherever Item is used
     #Get the text frames in the page
@@ -31,12 +31,18 @@ for pageIndex in range(1,myDocument.Pages.Count+1):     #Note: All the Indexes s
         myContents = myFrame.Contents
         
         #Get paragraphs in the text frame
-        for para_index in range(1, myFrame.Paragraphs.Count):
+        for para_index in range(myFrame.Paragraphs.Count):
             myPara = myFrame.Paragraphs[para_index]
             #Get Paragraph style
             print(myPara.appliedParagraphStyle)
             # if str(myPara.appliedParagraphStyle) == "Basic Paragraph":
                 # do something
+
+#Navigate a document storywise
+for storyIndex in range(myDocument.Stories.Count):
+    #Story handle
+    myStory = myDocument.Stories[storyIndex]
+    
 
 #Get all the paragraph styles in the document
 for style in myDocument.ParagraphStyles:
