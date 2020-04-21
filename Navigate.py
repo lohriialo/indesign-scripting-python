@@ -3,7 +3,7 @@
 # Created: 4/17/2020 
 
 __author__ = "CrudeRags"
-__version__ = "1.0"
+__version__ = "1.1"
 
 """
 Navigate a book, and its documents pagewise and storywise
@@ -43,14 +43,14 @@ for doc in myBook.bookContents:
                     # do something
 
             #Navigate a document storywise
-            for story in myDoc.Stories:
-                # print(story.Contents) 
+    for story in myDoc.Stories:
+        # print(story.Contents) 
 
-                for para in story.Paragraphs:
-                    #do stuff
-                    para.Contents += "Hi there!"
+        for para in story.Paragraphs:
+            #do stuff
+            para.Contents += "Hi there!"
 
 
             #Get all the paragraph styles in the document
-            for style in myDoc.ParagraphStyles:
-                print(style)
+    for style in myDoc.ParagraphStyles:
+        print(style)
