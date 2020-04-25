@@ -3,7 +3,7 @@
 # Created: 4/17/2020 
 
 __author__ = "CrudeRags"
-__version__ = "1.0"
+__version__ = "1.1"
 
 """
 Navigate a book, and its documents pagewise and storywise
@@ -15,9 +15,9 @@ import os
 #Use your version of InDesign here
 app = win32com.client.Dispatch('InDesign.Application.CC.2019')  
 idnPath = os.path.abspath(r"path_to_book")
-bookPath = os.path.join(idnPath,'MH 1-43.indb')
+bookPath = os.path.join(idnPath,'book_name.indb')
 
-# ShowingWindow if false would not show what is opened in the app. If set to true, the book/document/library will be opened in the app
+# ShowingWindow - option to show/hide what is opened. 
 app.Open(From = bookPath,  ShowingWindow = False)
 myBook = app.ActiveBook
 
@@ -43,14 +43,15 @@ for doc in myBook.bookContents:
                     # do something
 
             #Navigate a document storywise
-            for story in myDoc.Stories:
-                # print(story.Contents) 
+    for story in myDoc.Stories:
+        # print(story.Contents) 
 
-                for para in story.Paragraphs:
-                    #do stuff
-                    para.Contents += "Hi there!"
+        for para in story.Paragraphs:
+            #do stuff
+            para.Contents += "Hi there!"
 
 
             #Get all the paragraph styles in the document
-            for style in myDoc.ParagraphStyles:
-                print(style)
+
+    for style in myDoc.ParagraphStyles:
+        print(style)
