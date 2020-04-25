@@ -52,5 +52,6 @@ for doc in myBook.bookContents:
 
 
             #Get all the paragraph styles in the document
+
     for style in myDoc.ParagraphStyles:
         print(style)
