@@ -44,11 +44,10 @@ Python is not directly supported as a first party scripting language, so you can
 There's a feature request though to add support for Python in InDesign, you might want to go give your vote [here](https://indesign.uservoice.com/forums/601021-adobe-indesign-feature-requests/suggestions/32193772-add-python-to-the-list-of-supported-scripting-lang)
 
 # InDesign Scripting Resources
-* [InDesign Scripting SDK](https://console.adobe.io/downloads/id)
-* [InDesign Scripting Documentation](http://www.adobe.com/devnet/indesign/documentation.html)
-* [InDesign Scripting Developer Forum](https://forums.adobe.com/community/indesign/indesign_scripting)
-* [InDesign Scripting API Reference](http://www.indesignjs.de/extendscriptAPI/indesign12)
-* [InDesign Scripting Tutorials](https://www.youtube.com/user/BSKTCreation/videos)
+* [InDesign Scripting SDK](https://developer.adobe.com)
+* [InDesign Scripting Documentation](https://developer.adobe.com)
+* [InDesign Scripting Developer Forum](https://community.adobe.com/t5/indesign/ct-p/ct-indesign?page=1&sort=latest_replies&filter=all&lang=all&tabid=discussions&topics=label-scripting%2Clabel-sdk)
+* [InDesign Scripting API Reference](https://www.indesignjs.de/extendscriptAPI/indesign-latest)
 
 # Also see 
 * [Photoshop Scripting in Python](https://github.com/lohriialo/photoshop-scripting-python)
