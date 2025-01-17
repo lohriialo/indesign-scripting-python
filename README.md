@@ -48,6 +48,7 @@ There's a feature request though to add support for Python in InDesign, you migh
 * [InDesign Scripting Documentation](https://developer.adobe.com)
 * [InDesign Scripting Developer Forum](https://community.adobe.com/t5/indesign/ct-p/ct-indesign?page=1&sort=latest_replies&filter=all&lang=all&tabid=discussions&topics=label-scripting%2Clabel-sdk)
 * [InDesign Scripting API Reference](https://www.indesignjs.de/extendscriptAPI/indesign-latest)
+* [InDesign Developers Prerelease Program](https://www.adobeprerelease.com/beta/D1A76A97-F7DC-4552-DE3C-FF5F211C7492)
 
 # Also see 
 * [Photoshop Scripting in Python](https://github.com/lohriialo/photoshop-scripting-python)
